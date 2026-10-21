@@ -105,15 +105,6 @@ A receipt-focused expense management concept with **receipt scanning and quantit
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SairaZacRozan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🧠 Currently Learning
 
