@@ -189,10 +189,6 @@ I'm always interested in **learning, building, collaborating and exploring new i
 
 <div align="center">
 
-### 🐍 Watch the contribution snake eat my commits!
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 <br>
 
 **"Keep coding. Keep learning. Keep building. 🚀"**
